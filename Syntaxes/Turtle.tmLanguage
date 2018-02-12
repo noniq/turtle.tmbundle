@@ -785,10 +785,6 @@
 		</dict>
 		<key>turtleDoc</key>
 		<dict>
-			<key>begin</key>
-			<string>^</string>
-			<key>end</key>
-			<string>\z</string>
 			<key>name</key>
 			<string>meta.spec.turtleDoc.turtle</string>
 			<key>patterns</key>
